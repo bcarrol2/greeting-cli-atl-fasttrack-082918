@@ -4,4 +4,5 @@ def greeting (name)
   
 end
 
-
+def $stdout (name)
+  puts 
