@@ -5,4 +5,7 @@ def greeting (name)
 end
 
 def $stdout (name)
-  puts 
+  puts "Hi! I'm HAL, what's your name?' exactly."
+
+end
+
