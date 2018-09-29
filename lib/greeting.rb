@@ -3,6 +3,7 @@ def greeting = (name)
   puts "Hello #{name}. It's nice to meet you."
   
 end
-
-greeting("Hal")
+Puts "Enter your name here"
+x = gets.chomp
+greeting("x")
 
