@@ -5,7 +5,7 @@ def greeting (name)
 end
 
 def stdout (name)
-  puts "Hi! I'm #{name}, what's your name?"
+  puts "'Hi! I'm HAL, what's your name?' exactly."
 
 end
 
