@@ -5,5 +5,5 @@ def greeting (name)
 end
 puts "Enter your name here"
 x = gets.chomp
-greeting("x")
+greeting("Hal")
 
