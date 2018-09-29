@@ -1,4 +1,5 @@
 # code the #greeting method here!
-def greeting ="truthy value"
+def greeting = (name)
+  puts "Hi #{name} "
   
 end
